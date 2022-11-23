@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<!--
+
 **gonzalolater/gonzalolater** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: https://twitter.com/Coach_Bullets
 - ⚡ Fun fact: "Any application that CAN be written in JavaS,cript, WILL eventually be written in JavaScript."
--->
+
