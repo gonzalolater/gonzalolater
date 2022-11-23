@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working at Software Developer Full.
 - 🌱 I’m currently learning WEB 3 & Smart Contract in https://university.alchemy.com/
-- 👯 I’m looking to collaborate on Blockchain Poyects
+- 👯 I’m looking to collaborate on Blockchain Proyects
 - 🤔 I’m looking for help with Proyect AET.
 - 💬 Ask me about anything you want.
 - 📫 How to reach me: https://www.linkedin.com/in/gonzalo-daniel-aguilar/
