@@ -9,7 +9,7 @@
 - 💬 Ask me about anything you want.
 - 📫 How to reach me: https://www.linkedin.com/in/gonzalo-daniel-aguilar/
 - 😄 Pronouns: https://twitter.com/Coach_Bullets
-- ⚡ Fun fact: "Any application that CAN be written in JavaS,cript, WILL eventually be written in JavaScript."
+- ⚡ Fun fact: "Any application that *CAN* be written in JavaScript, *WILL* eventually be written in JavaScript."
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/gonzalolater/count.svg" />
