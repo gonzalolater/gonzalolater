@@ -1,8 +1,8 @@
 # Hi there 👋 #
 
-# some things about me:
+# Some things about me:
 
-- 🔭 I’m currently working at Freelamce.
+- 🔭 I’m currently working at Software Engeneer.
 - 🌱 I’m currently learning WEB 3 & Smart Contract in https://university.alchemy.com/
 - 👯 I’m looking to collaborate on Blockchain Poyects
 - 🤔 I’m looking for help with Proyect AET.
