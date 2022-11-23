@@ -15,3 +15,5 @@
   <img src="https://profile-counter.glitch.me/daweedkob/count.svg" />
 </p>
 <a href=#><img src="contributions.svg"></a>
+
+![](https://media0.giphy.com/media/3otPorWLQJq5GmHRtu/giphy.gif)
