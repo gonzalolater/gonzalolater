@@ -2,7 +2,7 @@
 
 # Some things about me:
 
-- 🔭 I’m currently working at Software Developer Full-Stack in: Javascript & Blockchain with Solidity, CELO / Smart Contrat Engineer / Agile Coach / Web 3 Pioneer / Dapp Architect Ethereum / NFT Dynamic / Financial Markets Technical Analyst / DeFi UX.
+- 🔭 I’m currently working at Software Developer Full.
 - 🌱 I’m currently learning WEB 3 & Smart Contract in https://university.alchemy.com/
 - 👯 I’m looking to collaborate on Blockchain Poyects
 - 🤔 I’m looking for help with Proyect AET.
