@@ -21,3 +21,5 @@ https://testnets.opensea.io/assets/goerli/0xe39883043563650dc0ad64377f8aa3fb5399
 
 # Wallet where I have carried out my tests in different networks:
 https://goerli.etherscan.io/address/0x0c7DFfaF071327F50477A32e572224D2fAdcfBEb
+-----------------------------------------------------------------------------------------
+![image](https://user-images.githubusercontent.com/42863568/206067377-52752071-904e-41a4-9b87-ea5c6d17e438.png)
