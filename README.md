@@ -19,5 +19,5 @@ https://testnets.opensea.io/assets/goerli/0xe39883043563650dc0ad64377f8aa3fb5399
 </p>
 <a href=#><img src="contributions.svg"></a>
 
-# wallet where I have carried out my tests on the goerli network:
+# wallet where I have carried out my tests in different networks:
 https://goerli.etherscan.io/address/0x0c7DFfaF071327F50477A32e572224D2fAdcfBEb
