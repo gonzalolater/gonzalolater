@@ -1,5 +1,7 @@
 # Hi there 👋 #
 
+![MONO](https://user-images.githubusercontent.com/42863568/206052981-76608bd1-6b5e-4ee1-94bb-f32ea763a57b.gif)
+
 # Some things about me:
 
 - 🔭 I’m currently working at Software Developer Full.
@@ -15,4 +17,5 @@
   <img src="https://profile-counter.glitch.me/gonzalolater/count.svg" />
 </p>
 <a href=#><img src="contributions.svg"></a>
+
 
