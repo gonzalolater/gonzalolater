@@ -6,7 +6,7 @@ https://testnets.opensea.io/assets/goerli/0xe39883043563650dc0ad64377f8aa3fb5399
 # Some things about me:
 
 - 🔭 I’m currently working at Software Developer Full.
-- 🌱 I’m currently learning WEB 3 & Smart Contract in https://university.alchemy.com/
+- 🌱 I’m currently learn WEB 3 & Smart Contract in https://university.alchemy.com/ & https://platzi.com/p/gonzalo-daniel-aguilar/
 - 👯 I’m looking to collaborate on Blockchain Proyects
 - 🤔 I’m looking for help with Proyect AET.
 - 💬 Ask me about anything you want.
