@@ -17,7 +17,7 @@ https://testnets.opensea.io/assets/goerli/0xe39883043563650dc0ad64377f8aa3fb5399
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/gonzalolater/count.svg" />
 </p>
-<a href=#><img src="contributions.svg"></a>
+![wrapped_gonzalolater](https://github.com/gonzalolater/gonzalolater/assets/42863568/3d596045-b23f-41bb-a63a-a07834128352)
 
 # Wallet where I have carried out my tests in different networks:
 https://goerli.etherscan.io/address/0x0c7DFfaF071327F50477A32e572224D2fAdcfBEb
