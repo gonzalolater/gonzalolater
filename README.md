@@ -6,9 +6,9 @@ https://testnets.opensea.io/assets/goerli/0xe39883043563650dc0ad64377f8aa3fb5399
 # Some things about me:
 
 - 🔭 I’m currently working at Software Developer Full.
-- 🌱 I’m currently learning Algorand & finish Web 3 Developer in https://university.alchemy.com/ & https://platzi.com/p/gonzalo-daniel-aguilar/
+- 🌱 I’m currently develop in Algorand & finish the https://university.alchemy.com/ & https://platzi.com/p/gonzalo-daniel-aguilar/
 - 👯 I’m looking to collaborate on Blockchain Proyects
-- 🤔 I’m looking for help with Proyect AET.
+- 🤔 I’m looking for help with SLATs
 - 💬 Ask me about anything you want.
 - 📫 How to reach me: https://www.linkedin.com/in/gonzalo-daniel-aguilar/
 - 😄 Pronouns: https://twitter.com/Coach_Bullets
