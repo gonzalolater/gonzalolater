@@ -22,4 +22,4 @@ https://testnets.opensea.io/assets/goerli/0xe39883043563650dc0ad64377f8aa3fb5399
 # Wallet where I have carried out my tests in different networks:
 https://goerli.etherscan.io/address/0x0c7DFfaF071327F50477A32e572224D2fAdcfBEb
 -----------------------------------------------------------------------------------------
-![wrapped_gonzalolater 2023](https://github.com/gonzalolater/gonzalolater/assets/42863568/609846ec-09a4-447c-9894-d64f8fd64051)
+![wrapped_gonzalolater](https://github.com/gonzalolater/gonzalolater/assets/42863568/c39170e3-16ae-4fb6-8bc8-48de61f2d005)
