@@ -13,12 +13,14 @@ https://testnets.opensea.io/assets/goerli/0xe39883043563650dc0ad64377f8aa3fb5399
 - 📫 How to reach me: https://www.linkedin.com/in/gonzalo-daniel-aguilar/
 - 😄 Pronouns: https://twitter.com/Coach_Bullets
 - ⚡ Fun fact: "Any application that *CAN* be written in JavaScript, *WILL* eventually be written in JavaScript."
+
+![image](https://github.com/gonzalolater/gonzalolater/assets/42863568/b806db08-ee5f-4b6a-a489-21bca46beea9)
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/gonzalolater/count.svg" />
-  ![image](https://github.com/gonzalolater/gonzalolater/assets/42863568/b806db08-ee5f-4b6a-a489-21bca46beea9)
 </p>
 <a href=#><img src="contributions.svg"></a>
+
 
 # Wallet where I have carried out my tests in different networks:
 https://goerli.etherscan.io/address/0x0c7DFfaF071327F50477A32e572224D2fAdcfBEb
