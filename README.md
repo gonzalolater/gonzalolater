@@ -1,8 +1,9 @@
 # Hi there 👋 #
 
 ### NFT CROSS-CHAIN ​​created at OPENSEA on the GOERLIETH testnet. / NFT CROSS-CHAIN creado en OPENSEA en la red de pruebas GOERLIETH.
-https://testnets.opensea.io/assets/goerli/0xe39883043563650dc0ad64377f8aa3fb539947e5/255
+### Floor Price : 11 ETH
 ![MONO](https://user-images.githubusercontent.com/42863568/206052981-76608bd1-6b5e-4ee1-94bb-f32ea763a57b.gif)
+![image](https://github.com/gonzalolater/gonzalolater/assets/42863568/a9e62c96-164f-4cab-a88a-5843785cbe5c)
 
 # Some things about me:
 
