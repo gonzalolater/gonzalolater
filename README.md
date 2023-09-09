@@ -13,7 +13,7 @@
 - 🌱 I’m currently develop in Algorand & finish the https://university.alchemy.com/ & https://platzi.com/p/gonzalo-daniel-aguilar/
 - 👯 I’m looking to collaborate on Blockchain Proyects
 - 🤔 I’m looking for help with SLATs
-- 💬 Ask me about anything you want.
+- 💬 Ask me about Agile Coaching: https://lol.fandom.com/wiki/Dodging_Bullets
 - 📫 How to reach me: https://www.linkedin.com/in/gonzalo-daniel-aguilar/
 - 😄 Pronouns: https://twitter.com/Coach_Bullets
 - ⚡ Fun fact: "Any application that *CAN* be written in JavaScript, *WILL* eventually be written in JavaScript."
