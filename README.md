@@ -18,7 +18,7 @@
 - 😄 Pronouns: https://twitter.com/Coach_Bullets
 - ⚡ Fun fact: "Any application that *CAN* be written in JavaScript, *WILL* eventually be written in JavaScript."
 
-![image](https://github.com/gonzalolater/gonzalolater/assets/42863568/b806db08-ee5f-4b6a-a489-21bca46beea9)
+
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/gonzalolater/count.svg" />
