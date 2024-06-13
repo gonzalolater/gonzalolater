@@ -24,9 +24,6 @@
   <img src="https://profile-counter.glitch.me/gonzalolater/count.svg" />
 </p>
 
-<a href=#><img src="contributions.svg"></a>
-
-
 # Wallet where I have carried out my tests in different networks:
 https://goerli.etherscan.io/address/0x0c7DFfaF071327F50477A32e572224D2fAdcfBEb
 -----------------------------------------------------------------------------------------
