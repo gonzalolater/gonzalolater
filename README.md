@@ -27,4 +27,3 @@
 # Wallet where I have carried out my tests in different networks:
 https://goerli.etherscan.io/address/0x0c7DFfaF071327F50477A32e572224D2fAdcfBEb
 -----------------------------------------------------------------------------------------
-![wrapped_gonzalolater](https://github.com/gonzalolater/gonzalolater/assets/42863568/c39170e3-16ae-4fb6-8bc8-48de61f2d005)
