@@ -25,6 +25,8 @@ Visitor Number<br>
 
 
 
-# Wallet where I have carried out my tests in different networks:
-https://goerli.etherscan.io/address/0x0c7DFfaF071327F50477A32e572224D2fAdcfBEb
------------------------------------------------------------------------------------------
+## Wallet where I have my certifications:
+
+[https://goerli.etherscan.io/address/0x0c7DFfaF071327F50477A32e572224D2fAdcfBEb](https://opensea.io/0x1655e80Ba41BF7106BA2bC9B032ED9Af26ae6E9e?status=all )
+
+![image](https://github.com/user-attachments/assets/afa3825b-3d19-4d9f-b89f-185a13da4ba4)
