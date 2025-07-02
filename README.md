@@ -1,4 +1,9 @@
-# Hi there 👋 #
+<h1 align="center"> Hi there 👋 </h1> 
+
+<p align="center"> 
+Visitor Number<br>
+  <img src="https://profile-counter.glitch.me/gonzalolater/count.svg" />
+</p>
 
 ### NFT CROSS-CHAIN ​​created at OPENSEA on the GOERLIETH testnet. / NFT CROSS-CHAIN creado en OPENSEA en la red de pruebas GOERLIETH.
 ### Floor Price : 11 WETH
@@ -19,10 +24,6 @@
 - ⚡ Fun fact: "Any application that *CAN* be written in JavaScript, *WILL* eventually be written in JavaScript."
 
 
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/gonzalolater/count.svg" />
-</p>
 
 # Wallet where I have carried out my tests in different networks:
 https://goerli.etherscan.io/address/0x0c7DFfaF071327F50477A32e572224D2fAdcfBEb
