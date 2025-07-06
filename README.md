@@ -20,12 +20,13 @@ Visitor Number<br>
 
 ## Wallet where I have my certifications:
 
-[Opensea Direcction](https://opensea.io/0x1655e80Ba41BF7106BA2bC9B032ED9Af26ae6E9e?status=all )
+[My Opensea Direcction](https://opensea.io/0x1655e80Ba41BF7106BA2bC9B032ED9Af26ae6E9e?status=all )
 
 ![image](https://github.com/user-attachments/assets/afa3825b-3d19-4d9f-b89f-185a13da4ba4)
 
 ## Look at my awesome POAP collection:
 
-https://app.poap.xyz/scan/0x1655e80ba41bf7106ba2bc9b032ed9af26ae6e9e 
+
+[POAP LIST](https://app.poap.xyz/scan/0x1655e80ba41bf7106ba2bc9b032ed9af26ae6e9e)
 
 ![image](https://github.com/user-attachments/assets/3c463f3b-297d-4b30-ad9a-18adb2802c28)
