@@ -1,10 +1,5 @@
 <h1 align="center"> Hi there 👋 </h1> 
 
-<p align="center"> 
-Visitor Number<br>
-  <img src="https://profile-counter.glitch.me/gonzalolater/count.svg" />
-</p>
-
 # Some things about me:
 
 - 🔭 I’m currently working at Software Developer Full.
