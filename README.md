@@ -1,5 +1,7 @@
 <h1 align="center"> Hi there 👋 </h1> 
 
+<a align="center" href=#><img src="contributions.svg"></a>
+
 # Some things about me:
 
 - 🔭 I’m currently working at Software Developer Full.
