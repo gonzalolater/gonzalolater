@@ -13,6 +13,9 @@
 - 😄 Pronouns: https://twitter.com/Coach_Bullets
 - ⚡ Fun fact: "Any application that *CAN* be written in JavaScript, *WILL* eventually be written in JavaScript."
 
+## Official Alchemy Certified Ethereum Developer
+
+![Official-Alchemy-Certified-Ethereum-Developer (2)](https://github.com/user-attachments/assets/a4da3ed0-b012-40f8-a134-e1cbcaa96a10)
 
 
 ## Wallet where I have my certifications:
