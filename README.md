@@ -12,8 +12,8 @@
 - 📫 How to reach me: https://www.linkedin.com/in/gonzalo-daniel-aguilar/
 - 😄 Pronouns: https://twitter.com/Coach_Bullets
 - ⚡ Fun fact: "Any application that *CAN* be written in JavaScript, *WILL* eventually be written in JavaScript."
-- TOP 20 ALGORAND HACKER HOUSE - GLOBAL
-- TOP 25 MICROSFT AZURE IA LEARNING HACKATON
+- TOP 20 ALGORAND HACKER HOUSE - GLOBAL.
+- TOP 25 MICROSFT AZURE IA LEARNING HACKATON - GLOBAL.
 
 ## Official Alchemy Certified Ethereum Developer 0.095% PASS RATE.
 
