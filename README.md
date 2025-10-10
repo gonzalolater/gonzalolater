@@ -4,10 +4,9 @@
 
 # Some things about me:
 
-- 🔭 I’m currently working at Software Developer Full.
-- 🌱 I’m currently develop in Algorand & finish the https://university.alchemy.com/ & https://platzi.com/p/gonzalo-daniel-aguilar/
+- 🔭 Building high-performance Full-Stack solutions.
+- 🌱 Focused on secure DeFi development on Algorand & Ethereum. & finish the https://university.alchemy.com/ & https://platzi.com/p/gonzalo-daniel-aguilar/
 - 👯 I’m looking to collaborate on Blockchain Proyects
-- 🤔 I’m looking for Job.
 - 💬 Ask me about Agile Coaching: https://lol.fandom.com/wiki/Dodging_Bullets
 - 📫 How to reach me: https://www.linkedin.com/in/gonzalo-daniel-aguilar/
 - 😄 Pronouns: https://twitter.com/Coach_Bullets
