@@ -69,7 +69,7 @@ I validate my expertise through dynamic certifications and digital assets. You c
 ### 🛠️ Tech Stack & Education
 
 - **Learning Path:** [Alchemy University](https://university.alchemy.com/) | [Platzi Profile](https://platzi.com/p/gonzalo-daniel-aguilar/)
-- **Core:** JavaScript (React, Node.js), Solidity, Algorand SDK, HTML/CSS.
+- **Core:** JavaScript (React, Node.js), Solidity, Ethereum, Algorand SDK, HTML/CSS.
 - **Focus:** Smart Contract Security, Blockchain Interoperability, and n8n Automation.
 
 ---
