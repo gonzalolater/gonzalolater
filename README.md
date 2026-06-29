@@ -30,9 +30,9 @@ I am a **Senior Software Engineer** focused on high-performance Full-Stack solut
 
 | Achievement | Global Rank / Metric |
 | :--- | :--- |
-| **Alchemy Ethereum Developer** | **0.095% Pass Rate** (Official Certification) |
-| **Algorand Hacker House** | **TOP 20 GLOBAL** |
-| **Microsoft Azure AI Hackathon** | **TOP 25 GLOBAL** |
+| **Alchemy Ethereum Developer** | **0.095% Pass Rate** (Official Certification) **2022** |
+| **Algorand Hacker House** | **TOP 20 GLOBAL 2023** |
+| **Microsoft Azure AI Hackathon** | **TOP 25 GLOBAL 2024** |
 
 ---
 
