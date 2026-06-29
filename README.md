@@ -30,6 +30,7 @@ I am a **Senior Software Engineer** focused on high-performance Full-Stack solut
 
 | Achievement | Global Rank / Metric |
 | :--- | :--- |
+| **Platzi Ethereum Developer Program** | **1 of only 88 Global Graduates 2022** |
 | **Alchemy Ethereum Developer** | **0.095% Pass Rate** (Official Certification) **2022** |
 | **Algorand Hacker House** | **TOP 20 GLOBAL 2023** |
 | **Microsoft Azure AI Hackathon** | **TOP 25 GLOBAL 2024** |
